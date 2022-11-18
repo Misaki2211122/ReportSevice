@@ -1,0 +1,15 @@
+D:\Source\ReportService\ReportService.Api\bin\Debug\net6.0\ReportService.Api.deps.json
+D:\Source\ReportService\ReportService.Api\bin\Debug\net6.0\ReportService.Api.dll
+D:\Source\ReportService\ReportService.Api\bin\Debug\net6.0\ReportService.Api.pdb
+D:\Source\ReportService\ReportService.Api\bin\Debug\net6.0\ReportService.Application.dll
+D:\Source\ReportService\ReportService.Api\bin\Debug\net6.0\ReportService.Application.pdb
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.csproj.AssemblyReference.cache
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.AssemblyInfoInputs.cache
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.AssemblyInfo.cs
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.csproj.CoreCompileInputs.cache
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.csproj.CopyComplete
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.dll
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\refint\ReportService.Api.dll
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ReportService.Api.pdb
+D:\Source\ReportService\ReportService.Api\obj\Debug\net6.0\ref\ReportService.Api.dll

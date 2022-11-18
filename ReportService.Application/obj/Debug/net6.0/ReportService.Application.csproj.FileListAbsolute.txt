@@ -1,0 +1,12 @@
+D:\Source\ReportService\ReportService.Application\bin\Debug\net6.0\ReportService.Application.deps.json
+D:\Source\ReportService\ReportService.Application\bin\Debug\net6.0\ReportService.Application.dll
+D:\Source\ReportService\ReportService.Application\bin\Debug\net6.0\ReportService.Application.pdb
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.csproj.AssemblyReference.cache
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.AssemblyInfoInputs.cache
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.AssemblyInfo.cs
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.csproj.CoreCompileInputs.cache
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.dll
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\refint\ReportService.Application.dll
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ReportService.Application.pdb
+D:\Source\ReportService\ReportService.Application\obj\Debug\net6.0\ref\ReportService.Application.dll

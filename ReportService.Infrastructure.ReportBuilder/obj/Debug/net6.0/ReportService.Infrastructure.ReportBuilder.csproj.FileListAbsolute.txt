@@ -1,0 +1,15 @@
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\bin\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.deps.json
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\bin\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.dll
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\bin\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.pdb
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\bin\Debug\net6.0\ReportService.Application.dll
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\bin\Debug\net6.0\ReportService.Application.pdb
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.csproj.AssemblyReference.cache
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.AssemblyInfoInputs.cache
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.AssemblyInfo.cs
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.csproj.CoreCompileInputs.cache
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.csproj.CopyComplete
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.dll
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\refint\ReportService.Infrastructure.ReportBuilder.dll
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ReportService.Infrastructure.ReportBuilder.pdb
+D:\Source\ReportService\ReportService.Infrastructure.ReportBuilder\obj\Debug\net6.0\ref\ReportService.Infrastructure.ReportBuilder.dll
